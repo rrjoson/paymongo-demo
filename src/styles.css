@@ -1,0 +1,14 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  max-width: 600px;
+  margin: auto;
+}
+
+body > div {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}

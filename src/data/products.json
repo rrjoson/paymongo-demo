@@ -1,0 +1,23 @@
+{
+  "data": [
+    { "id": 1, "price": 10000, "quantity": 1, "name": "Product 1" },
+    {
+      "id": 2,
+      "price": 30000,
+      "quantity": 1,
+      "name": "Product 2"
+    },
+    {
+      "id": 3,
+      "price": 30000,
+      "quantity": 1,
+      "name": "Product 3"
+    },
+    {
+      "id": 4,
+      "price": 40000,
+      "quantity": 1,
+      "name": "Product 4"
+    }
+  ]
+}
