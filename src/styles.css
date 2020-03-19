@@ -8,9 +8,3 @@ body {
   max-width: 600px;
   margin: auto;
 }
-
-body > div {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-}
